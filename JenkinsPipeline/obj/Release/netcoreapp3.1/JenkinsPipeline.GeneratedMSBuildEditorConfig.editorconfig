@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = JenkinsPipeline
+build_property.ProjectDir = D:\NhapMonDevops\Lab\Lab2\JenkinsPipeline\JenkinsPipeline\

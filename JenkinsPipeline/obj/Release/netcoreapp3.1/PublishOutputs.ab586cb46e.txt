@@ -1,0 +1,7 @@
+D:\NhapMonDevops\Lab\Lab2\JenkinsPipeline\JenkinsPipeline\obj\Release\netcoreapp3.1\PubTmp\Out\JenkinsPipeline.exe
+D:\NhapMonDevops\Lab\Lab2\JenkinsPipeline\JenkinsPipeline\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+D:\NhapMonDevops\Lab\Lab2\JenkinsPipeline\JenkinsPipeline\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+D:\NhapMonDevops\Lab\Lab2\JenkinsPipeline\JenkinsPipeline\obj\Release\netcoreapp3.1\PubTmp\Out\JenkinsPipeline.dll
+D:\NhapMonDevops\Lab\Lab2\JenkinsPipeline\JenkinsPipeline\obj\Release\netcoreapp3.1\PubTmp\Out\JenkinsPipeline.deps.json
+D:\NhapMonDevops\Lab\Lab2\JenkinsPipeline\JenkinsPipeline\obj\Release\netcoreapp3.1\PubTmp\Out\JenkinsPipeline.runtimeconfig.json
+D:\NhapMonDevops\Lab\Lab2\JenkinsPipeline\JenkinsPipeline\obj\Release\netcoreapp3.1\PubTmp\Out\JenkinsPipeline.pdb
